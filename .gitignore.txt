@@ -1,0 +1,2 @@
+# Ignore the text files
+test.md
